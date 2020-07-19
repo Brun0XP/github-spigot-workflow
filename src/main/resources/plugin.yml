@@ -1,0 +1,4 @@
+name: GithubSpigotWorkflow
+version: ${project.version}
+main: com.github.brun0xp.githubspigotworkflow.GithubSpigotWorkflow
+api-version: 1.16
